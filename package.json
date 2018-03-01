@@ -1,6 +1,6 @@
 {
   "name": "sinon-register",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Helper module to register sinon in mocha with option --require.",
   "main": "register.js",
   "scripts": {
